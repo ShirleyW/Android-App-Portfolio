@@ -1,0 +1,47 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:background="#BBDEFB"
+    android:orientation="vertical">
+
+    <TextView android:text="@string/hello_world"
+        android:layout_marginTop="15dp"
+        style="@style/CodeFont" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:text="@string/button_text0"
+        android:onClick="popMessage0" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:text="@string/button_text1"
+        android:onClick="popMessage1" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:text="@string/button_text2"
+        android:onClick="popMessage2" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:text="@string/button_text3"
+        android:onClick="popMessage3" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:text="@string/button_text4"
+        android:onClick="popMessage4" />
+
+    <Button
+        style="@style/ButtonStyle"
+        android:layout_marginBottom="25dp"
+        android:background="#C62828"
+        android:text="@string/button_text5"
+        android:onClick="popMessage5" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Shuying\'s App Portfolio</string>
+
+    <string name="hello_world">My App Portfolio</string>
+    <string name="button_text0">Spotify Streamer</string>
+    <string name="button_text1">Football Scores App</string>
+    <string name="button_text2">Library App</string>
+    <string name="button_text3">Build It Bigger</string>
+    <string name="button_text4">XYZ Reader</string>
+    <string name="button_text5">Capstone </string>
+    <string name="action_settings">Settings</string>
+</resources>
