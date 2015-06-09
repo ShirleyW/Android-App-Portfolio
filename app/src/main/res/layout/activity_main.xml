@@ -11,36 +11,42 @@
         style="@style/CodeFont" />
 
     <Button
+        android:id="@+id/button_0"
         style="@style/ButtonStyle"
         android:text="@string/button_text0"
-        android:onClick="popMessage0" />
+        android:onClick="popMessage" />
 
     <Button
+        android:id="@+id/button_1"
         style="@style/ButtonStyle"
         android:text="@string/button_text1"
-        android:onClick="popMessage1" />
+        android:onClick="popMessage" />
 
     <Button
+        android:id="@+id/button_2"
         style="@style/ButtonStyle"
         android:text="@string/button_text2"
-        android:onClick="popMessage2" />
+        android:onClick="popMessage" />
 
     <Button
+        android:id="@+id/button_3"
         style="@style/ButtonStyle"
         android:text="@string/button_text3"
-        android:onClick="popMessage3" />
+        android:onClick="popMessage" />
 
     <Button
+        android:id="@+id/button_4"
         style="@style/ButtonStyle"
         android:text="@string/button_text4"
-        android:onClick="popMessage4" />
+        android:onClick="popMessage" />
 
     <Button
+        android:id="@+id/button_5"
         style="@style/ButtonStyle"
         android:layout_marginBottom="25dp"
         android:background="#C62828"
         android:text="@string/button_text5"
-        android:onClick="popMessage5" />
+        android:onClick="popMessage" />
 
 
 
